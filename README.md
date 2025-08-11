@@ -1,6 +1,6 @@
-# Project_1# 
+# Project_1
 
-This project will give insights from data about movie revenue trends from 2010 to 2018. The goal is to make business stakeholders make clear and smart decisions on what kind of movies to produce that would increase their chances of success considering the high competition in the film industr. This knowledge can help stakeholders minimize financial risk and earn their profit returns by focusing on films that have the highest ratings over the years. By looking at this, we were able to breakdown the movies based on the genre and movie studio that produced it to help determine the factors that led to it's success
+This project will give insights from data about movie revenue trends from 2010 to 2018. The goal is to make business stakeholders make clear and smart decisions on what kind of movies to produce that would increase their chances of success considering the high competition in the film industru. This knowledge can help stakeholders minimize financial risk and earn their profit returns by focusing on films that have the highest ratings over the years. By looking at this, we were able to breakdown the movies based on the genre and movie studio that produced it to help determine the factors that led to it's success
 ## PROJECT OVERVIEW
 
 After analyzing the movie data available from IMDb and Box Office Mojo, we found out:
@@ -19,10 +19,9 @@ The insights in this report can help Microsoft make data-informed decisions abou
 
 | File | Description |
 |------|-------------|
-| `notebooks/MOVIE_REVENUE_ANALYSIS_PROJECT.ipynb` | Main notebook with codes, findings and visualizations |
+| `notebooks/Project_Rodney.ipynb` | Main notebook with codes, findings and visualizations |
 | `data/` | Folder containing movie datasets we used from github|
 | `movie_visuals/` | Contains generated bar charts, histograms, line graphs for rating, gross, titles, genre  etc.|
-| `presentation/movie_gross_presentation.pdf` | A non-technical summary of our findings (slide decks) |
 | `README.md` | A plain-English language written overview of the project |
 
 ---
